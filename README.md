@@ -1,1 +1,1 @@
-# scrapzee-frontend
+# scrpzee-frontend
