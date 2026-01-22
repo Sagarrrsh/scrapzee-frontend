@@ -1,4 +1,4 @@
-import { Recycle, DollarSign, MapPin, Clock, TrendingUp, Leaf, Zap, Shield, ArrowRight, Sparkles, Award, Users } from 'lucide-react';
+import { Recycle, TrendingUp, MapPin, Clock, Leaf, Zap, Shield, ArrowRight, Sparkles, Award, Users } from 'lucide-react';
 
 const HomePage = ({ setCurrentPage }) => (
   <div className="min-h-screen bg-gradient-to-br from-emerald-50 via-cyan-50 to-blue-50 overflow-hidden">
@@ -364,7 +364,7 @@ const HomePage = ({ setCurrentPage }) => (
           </div>
         </div>
         <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-          <p>© 2026 Scrapzee. All rights reserved. Made in India</p>
+          <p>© 2024 Scrapzee. All rights reserved. Made in India</p>
         </div>
       </div>
     </footer>
