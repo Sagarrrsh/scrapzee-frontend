@@ -67,7 +67,7 @@ const HomePage = ({ setCurrentPage }) => (
           <p className="text-xl sm:text-2xl text-gray-700 mb-10 max-w-3xl mx-auto leading-relaxed">
             Join <span className="font-bold text-green-600">10,000+</span> smart Indians who are making money while saving the planet. 
             <span className="block mt-2 text-lg text-gray-600">
-              📱 Easy • 🚀 Fast • 💯 Trusted
+               Easy •  Fast •  Trusted
             </span>
           </p>
 
@@ -311,7 +311,7 @@ const HomePage = ({ setCurrentPage }) => (
                 onClick={() => setCurrentPage('login')}
                 className="px-8 py-4 bg-white text-gray-800 rounded-2xl font-bold text-lg shadow-xl hover:shadow-2xl transform hover:-translate-y-1 transition-all"
               >
-                Get Started Free 🚀
+                Get Started For Free 
               </button>
               <button
                 onClick={() => setCurrentPage('pricing')}
@@ -358,13 +358,13 @@ const HomePage = ({ setCurrentPage }) => (
             <h4 className="font-bold mb-4">Contact</h4>
             <ul className="space-y-2 text-gray-400">
               <li>📧 hello@scrapzee.com</li>
-              <li>📱 +91 98765 43210</li>
-              <li>📍 Mumbai, India</li>
+              <li>📱 +91 98765 43xxx</li>
+              <li>📍 Belagavi, India</li>
             </ul>
           </div>
         </div>
         <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-          <p>© 2024 Scrapzee. All rights reserved. Made with 💚 in India</p>
+          <p>© 2026 Scrapzee. All rights reserved. Made in India</p>
         </div>
       </div>
     </footer>
