@@ -143,7 +143,7 @@ const HomePage = ({ setCurrentPage }) => (
             },
             {
               step: '3',
-              icon: DollarSign,
+              icon: TrendingUp,
               title: 'Get Paid Instantly',
               desc: 'Receive cash or UPI payment on the spot - no waiting!',
               color: 'from-purple-400 to-pink-500',
@@ -183,7 +183,7 @@ const HomePage = ({ setCurrentPage }) => (
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {[
             {
-              icon: DollarSign,
+              icon: TrendingUp,
               title: 'Best Market Prices',
               desc: 'Get up to 20% more than traditional scrap dealers with our dynamic pricing',
               color: 'from-green-400 to-emerald-500',
