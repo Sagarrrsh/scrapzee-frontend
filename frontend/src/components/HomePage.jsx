@@ -97,7 +97,7 @@ const HomePage = ({ setCurrentPage }) => (
             {[
               { icon: Users, value: '10K+', label: 'Happy Users', color: 'from-green-500 to-emerald-500' },
               { icon: Recycle, value: '50K+', label: 'Tons Recycled', color: 'from-cyan-500 to-blue-500' },
-              { icon: DollarSign, value: '₹2Cr+', label: 'Paid Out', color: 'from-purple-500 to-pink-500' },
+              { icon: TrendingUp, value: '₹2Cr+', label: 'Paid Out', color: 'from-purple-500 to-pink-500' },
               { icon: Award, value: '4.9★', label: 'User Rating', color: 'from-yellow-500 to-orange-500' }
             ].map((stat, i) => (
               <div key={i} className="bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg border border-gray-200/50 transform hover:scale-105 transition-all">
