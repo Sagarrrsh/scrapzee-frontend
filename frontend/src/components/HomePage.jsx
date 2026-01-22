@@ -137,7 +137,7 @@ const HomePage = ({ setCurrentPage }) => (
               step: '2',
               icon: Clock,
               title: 'Schedule Pickup',
-              desc: 'Choose a convenient time and we'll come to your doorstep',
+              desc: 'Choose a convenient time and we will come to your doorstep',
               color: 'from-cyan-400 to-blue-500',
               bgColor: 'from-cyan-50 to-blue-50'
             },
@@ -267,7 +267,7 @@ const HomePage = ({ setCurrentPage }) => (
             {
               name: 'Anita Desai',
               role: 'Teacher, Bangalore',
-              text: 'Love how I\'m earning while helping the environment. The app is super user-friendly! 🌱',
+              text: 'Love how I am earning while helping the environment. The app is super user-friendly! 🌱',
               avatar: '👩‍🏫'
             }
           ].map((testimonial, i) => (
